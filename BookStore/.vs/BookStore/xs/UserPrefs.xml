@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{5E2EE369-D601-4D8E-92DC-D83BEBB83A94}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookStore.Entities/BookStore.Business.Entities/BookStoreEntityModel.Designer.cs">
+    <Files>
+      <File FileName="BookStore.Services/CatalogueService.cs" Line="1" Column="1" />
+      <File FileName="BookStore.Business.Components/UserProvider.cs" />
+      <File FileName="BookStore.Entities/BookStore.Business.Entities/Delivery.cs" />
+      <File FileName="BookStore.Entities/BookStore.Business.Entities/Order.cs" />
+      <File FileName="BookStore.Entities/BookStore.Business.Entities/Role.cs" />
+      <File FileName="BookStore.Entities/BookStore.Business.Entities/Stock.cs" />
+      <File FileName="BookStore.Entities/BookStore.Business.Entities/LoginCredential.cs" Line="1" Column="1" />
+      <File FileName="BookStore.Entities/BookStore.Business.Entities/BookStoreEntityModel.Designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookStore" expanded="True">
+            <Node name="BookStore.Application" expanded="True">
+              <Node name="BookStore.Process" expanded="True" />
+            </Node>
+            <Node name="BookStore.Business" expanded="True">
+              <Node name="BookStore.Business.Components" expanded="True" />
+              <Node name="BookStore.Business.Entities" expanded="True">
+                <Node name="BookStoreEntityModel.edmx" expanded="True">
+                  <Node name="BookStoreEntityModel.Designer.cs" selected="True" />
+                  <Node name="Model1.tt" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="BookStore.Presentation" expanded="True" />
+            <Node name="BookStore.Services" expanded="True">
+              <Node name="BookStore.Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BookStore.Presentation.BookStore.WebClient PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
