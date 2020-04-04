@@ -1,0 +1,8 @@
+******************************
+"MyClass.doSomething Test Results:
+9Number of times MyDependency.getSomeResult was called: 3
+NString parameter given to first MyDependency.getSomeResult call (if any): One
+OString parameter given to second MyDependency.getSomeResult call (if any): Two
+Iint parameter given to first MyDependency.getSomeResult call (if any): 1
+Jint parameter given to second MyDependency.getSomeResult call (if any): 2
+******************************

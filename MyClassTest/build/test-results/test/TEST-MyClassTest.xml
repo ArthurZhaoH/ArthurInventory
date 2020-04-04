@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyClassTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-03T06:47:13" hostname="Arthurs-MBP.hub" time="0.378">
+  <properties/>
+  <testcase name="doSomethingTest" classname="MyClassTest" time="0.378"/>
+  <system-out><![CDATA[******************************
+MyClass.doSomething Test Results:
+Number of times MyDependency.getSomeResult was called: 3
+String parameter given to first MyDependency.getSomeResult call (if any): One
+String parameter given to second MyDependency.getSomeResult call (if any): Two
+int parameter given to first MyDependency.getSomeResult call (if any): 1
+int parameter given to second MyDependency.getSomeResult call (if any): 2
+******************************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
